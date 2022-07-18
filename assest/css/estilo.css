@@ -1,0 +1,144 @@
+body {  
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+}
+
+header {
+    font-family: 'Raleway', sans-serif;
+    background-color: #000000;
+    height: 73px;
+    text-align: center;
+    overflow: hidden;
+}
+
+header h1 {
+    font-size: 50px;
+    color: #FFFFFF;
+    font-weight: 500;
+    margin: 11.5px;  
+}
+
+section#slider {
+    height: 727px;
+    background-image: url(../img/bg-header.jpg);
+    background-size: cover;
+}
+
+#section1 {
+    background-color: #000000;
+    text-align: center;
+    padding: 45px 0 34px;
+}
+
+.texto {
+    width: 30%;
+    line-height: 20px;
+    display: inline-block;
+    color: #FFFFFF;
+    background-color: #000000;
+    text-align: left;
+    vertical-align: top;
+    padding-top: 31px;
+}
+
+.iguana {
+    display: inline-block;
+}
+
+.iguana img{
+    width: 399px;
+    clip-path:inset(10px);
+    padding-left: 80px;
+}
+
+#section2 {
+    height: 348px;
+    text-align: center;
+    background-color: #1E1A13;
+    color: #FFFFFF;
+}
+
+.h2 {
+    font-size: 40px;
+    color: #FFFFFF;
+    font-weight: 500;
+    padding-top: 60px;
+    text-align: center;
+}
+
+.icon-eyes {
+    float: left;
+    width: 20%;
+    padding-top: 65px;
+    padding-left: 300px;
+}
+
+.icon-paz {
+    float: left;
+    width: 20%;
+    padding-top: 65px;
+}
+
+.icon-pincel {
+    float: left;
+    width: 20%;
+    padding-top: 65px;
+}
+
+.icontext {
+    font-size: 25px;
+    padding-top: 30px;
+}
+
+#section3 {
+    height: 348px;
+    background-color: #000000;
+}
+
+#section3 .fila {
+text-align: center;   
+}
+
+.celda2 {
+    display: inline-block; 
+}
+
+.celda3 {
+    display: inline-block;
+}
+
+.celda4 {
+    display: inline-block;
+}
+
+.celda2 img {
+    height: 202px;
+    width: 316px;
+    padding: 73px 16px 73px 0px;
+}
+
+.celda3 img {
+    height: 202px;
+    width: 316px;
+    padding: 73px 16px 73px 0;
+}
+
+.celda4 img {
+    height: 202px;
+    width: 316px;
+    padding: 73px 0 73px 0;
+}
+
+.footer {
+    font-weight: 100;
+    height: 102px;
+    line-height: 6em;
+    background-color: #1E1A13;
+    text-align: center;
+}
+
+.footer a {
+    color:#FFFFFF;
+    font-size: 1.2em;
+    text-decoration: none;
+}
